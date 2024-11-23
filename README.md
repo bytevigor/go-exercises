@@ -1,3 +1,3 @@
 # Go Exercises
 
-Learn Go through examples and exercises, referencing [gobyexample](https://github.com/mmcgrana/gobyexample). For each example in gobyexample, we’ve designed at least one corresponding exercise. These exercises are perfect for reinforcing what you’ve learned from gobyexample, helping you master Go programming more effectively and efficiently.
+Learn Go through examples and exercises, referencing [gobyexample](https://github.com/mmcgrana/gobyexample). For each example in gobyexample, we’ve designed at least one corresponding exercise, complete with test code. After completing each exercise, you can use the provided tests to verify your solution and ensure you’ve mastered the concepts. These exercises are an effective way to reinforce your learning and build your Go programming skills with confidence.
